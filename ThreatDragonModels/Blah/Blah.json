@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Blah",
+    "owner": "Bleh",
+    "description": "Dunno"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Hsns",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Blih"
+  }
+}
